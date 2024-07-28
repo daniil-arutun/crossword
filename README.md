@@ -1,3 +1,4 @@
 # crossword
-This program was made by me while studying at the university. this was my project work.
-The program is a crossword puzzle that uses multithreading to speed up work.
+
+Данная программа была сделана мною во время учебы в университете. это было моей проектной работой.
+Программа представляет собой кроссворд, который использует многопоточность для ускорения работы.  
